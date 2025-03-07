@@ -1,0 +1,3 @@
+*.plt linguist-detectable=false
+Tecplot* linguist-detectable=false
+*.txt linguist-detectable=false
